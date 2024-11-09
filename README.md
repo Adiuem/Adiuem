@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+<h3 align="center"> developer | creator | designer from India 🇮🇳 </h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" height="300px" align="right"  >
 ⭐⭐⭐⭐⭐
 
