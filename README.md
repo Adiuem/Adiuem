@@ -6,7 +6,8 @@
 
 ###
 
-<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+<h3 align="center">A passionate developer from India ![FlagGIF](https://github.com/user-attachments/assets/9b74a2e1-b8c8-4413-a680-509cd73ca301)
+ 🇮🇳 </h3>
 
 ###
 
