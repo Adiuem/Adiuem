@@ -10,15 +10,13 @@
 
 ###
 
-<h3 align="center">🔭 I’m currently working on AI chatbot <br><br>🌱 I’m currently learning Dsa <br><br>👨‍💻 All of my projects are available at <br><br>📫 How to reach me <br><br>⚡ Fun fact :- I think I am Tech Enthusiastic (❁´◡`❁)</h3>
+<h3 align="left">🔭 I’m currently working on AI chatbot <br><br>🌱 I’m currently learning Dsa <br><br>👨‍💻 All of my projects are available at <br><br>📫 How to reach me <br><br>⚡ Fun fact :- I think I am Tech Enthusiastic (❁´◡`❁)</h3>
 
 ###
 
 <h2 align="left">PROGRAMMING LANGUAGES</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
@@ -475,6 +473,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
 </div>
+
+###
+
+<h3 align="left"> 🔥 MY STATS :</h3>
 
 ###
 
