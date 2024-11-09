@@ -431,6 +431,5 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/Adiuem/count.svg?"  />
 
 ###
