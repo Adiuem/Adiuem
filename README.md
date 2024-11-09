@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adiuem.Adiuem" />
+
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 
 ###
