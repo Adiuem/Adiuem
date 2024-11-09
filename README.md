@@ -7,8 +7,8 @@
 ###
 
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
-
-###
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" height="300px" align="right"  >
+⭐⭐⭐⭐⭐
 
 <h3 align="left">🔭 I’m currently working on AI chatbot <br><br>🌱 I’m currently learning Dsa <br><br>👨‍💻 All of my projects are available at <br><br>📫 How to reach me <br><br>⚡ Fun fact :- I think I am Tech Enthusiastic (❁´◡`❁)</h3>
 
