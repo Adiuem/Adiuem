@@ -7,10 +7,16 @@
 ###
 
 <h3 align="center"> developer | creator | designer from India 🇮🇳 </h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" height="300px" align="right"  >
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" height="150px" align="right"  >
 ⭐⭐⭐⭐⭐
 
 <h3 align="left">🔭 I’m currently working on Roadmap-For-All<br><br>🌱 I’m currently learning Dsa <br>
+
+
+
+
+
+
 
 
 ###
