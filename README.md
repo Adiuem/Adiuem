@@ -10,10 +10,7 @@
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" height="300px" align="right"  >
 ⭐⭐⭐⭐⭐
 
-<h3 align="left">🔭 I’m currently working on AI chatbot <br><br>🌱 I’m currently learning Dsa <br>
-<br>👨‍💻 All of my projects are available at Github<br>
-<br>📫 How to reach me <br>
-<br>⚡ Fun fact :- </h3>
+<h3 align="left">🔭 I’m currently working on Roadmap-For-All<br><br>🌱 I’m currently learning Dsa <br>
 
 
 ###
