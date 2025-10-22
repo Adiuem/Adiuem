@@ -21,7 +21,7 @@
 
 ###
 <details>
-<summary>:eyes: Tech Stack(Click to show)</summary>
+<summary><h3 align="left">:eyes: Tech Stack: </h3></summary>
 
 <h2 align="left">PROGRAMMING LANGUAGES</h2>
 
