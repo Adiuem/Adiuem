@@ -20,7 +20,8 @@
 
 
 ###
-
+<details>
+<summary>:eyes: Tech Stack(Click to show)</summary>
 
 <h2 align="left">PROGRAMMING LANGUAGES</h2>
 
@@ -200,6 +201,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
+</details>
+
 ###
 
 <h3 align="left">SOCIAL MEDIA</h3>
@@ -228,22 +231,30 @@
 </div>
 
 ###
-
-<h3 align="left"> 🔥 MY STATS :</h3>
+<details>
+ <summary><h3 align="left"> 🔥 MY STATS :</h3></summary>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adineo-cmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=adineo-cmd&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adineo-cmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=adineo-cmd&theme=chalk" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adineo-cmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=adineo-cmd&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=2" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adineo-cmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=adineo-cmd&theme=chalk" height="150" alt="trophy graph" />
 </div>
 
 ###
 
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Adiuem/Adiuem/output/snake.svg" alt="Snake animation" />
+
+</details>
 
 ###
